@@ -1,0 +1,6 @@
+1 doc1
+1 doc2
+1 doc3
+2 doc3
+2 doc1
+2 doc2
